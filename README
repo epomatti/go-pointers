@@ -1,5 +1,11 @@
 Go pointers examples:
 
+- basics
+- stacks
+- heaps
+
+To run each example:
+
   go run .
 
 Ref: https://youtu.be/sTFJtxJXkaY
